@@ -1,14 +1,10 @@
-# PLANISIUSS PROJECT
+# World Simulation with 3 Creatures PLANISIUSS 
 ---
 
-The libraries needed are:
-* Numpy
-* Matplotlib
-* Random
-* Sys
-* PyQt5
+### Overview
 
-The file that should be run is ‘graphic_portion.py’
-The NUMCELL var can be easily changed in the ‘main_code.py’ file, changing it will change the dimension of the grid 
+This Python project was created as part of the **Programming Exam** for the **BSc in Artificial Intelligence at Pavia-Milano University (2023)**. The project simulates a world inhabited by three types of creatures: **Vegetobs, Carviz, and Erbasts**. Each type of creature follows specific rules for survival, reproduction, and interaction with the environment. The simulation tracks population dynamics over time, and includes graphical plots to visualize the changes.
 
-A Full report and explanation of the code is provide in the ".pdf" file
+The main file to run is ``` graphic_portion.py ```, which generates the graphical representation of the simulation. The ``` NUMCELL ``` allows users to easily adjust the grid size of the world, offering flexibility in how the simulation environment is structured.
+
+Additionally, a comprehensive report is provided in the ```.pdf``` file, explaining the project in detail, including the underlying algorithms, rules governing each creature, and the design decisions made throughout the development process.
