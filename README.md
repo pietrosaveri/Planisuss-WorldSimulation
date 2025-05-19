@@ -1,6 +1,9 @@
 # World Simulation with 3 Creatures PLANISIUSS 
 ---
 
+## Authors  
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100px;" alt="Pietro Saveri"/><br /> <sub><b>Pietro Saveri</b></sub> </a> </td> <td align="center"></sub> </a> </td> <td align="center"> <a href="https://github.com/MatteoSalami"> <img src="https://github.com/M4tteoo.png" width="100px;" alt="Matteo Salami"/><br /> <sub><b>Matteo Salami</b></sub> </a> </td> </tr> </table> </div>
+
 ### Overview
 
 This Python project was created as part of the **Programming Exam** for the **BSc in Artificial Intelligence at Pavia-Milano University (2023)**. The project simulates a world inhabited by three types of creatures: **Vegetobs, Carviz, and Erbasts**. Each type of creature follows specific rules for survival, reproduction, and interaction with the environment. The simulation tracks population dynamics over time, and includes graphical plots to visualize the changes.
