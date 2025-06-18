@@ -13,10 +13,11 @@ The main file to run is ``` graphic_portion.py ```, which generates the graphica
 Additionally, a comprehensive report is provided in the ```.pdf``` file, explaining the project in detail, including the underlying algorithms, rules governing each creature, and the design decisions made throughout the development process.
 
 ### Simulation
+World and Plots
+<img width="1068" alt="Screenshot 2025-06-18 at 13 44 11" src="https://github.com/user-attachments/assets/8f86a8c4-5eef-4686-8d2d-8851c0f1f442" />
 
-World and Pltos <img width="1068" alt="Screenshot 2025-06-18 at 13 44 11" src="https://github.com/user-attachments/assets/8f86a8c4-5eef-4686-8d2d-8851c0f1f442" />
-
-Real-time personalization <img width="332" alt="Screenshot 2025-06-18 at 13 44 22" src="https://github.com/user-attachments/assets/c8726506-fc19-4e03-b9ed-f0f32b4606c4" />
+Real-time personalization
+<img width="332" alt="Screenshot 2025-06-18 at 13 47 00" src="https://github.com/user-attachments/assets/83233f59-1229-4f31-a5f4-eb6ca1c3f87a" />
 
 
 ### Full Project Report
